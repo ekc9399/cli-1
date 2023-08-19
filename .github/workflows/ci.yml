@@ -1,6 +1,6 @@
 # This file is automatically added by @npmcli/template-oss. Do not edit.
 
-name: CI
+name: CI.YML
 
 on:
   workflow_dispatch:
